@@ -102,4 +102,3 @@ Contributors
 
 * Ashkan Sheikhansari
 * Abolfazl Abedini
-1. 
